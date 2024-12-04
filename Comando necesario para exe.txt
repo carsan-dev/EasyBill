@@ -1,0 +1,1 @@
+pyinstaller --onefile --windowed --icon="Logo_Sanchez_Luna.ico" --name="Sistema de Facturación Sánchez Luna Servicios Integrales" app.py
