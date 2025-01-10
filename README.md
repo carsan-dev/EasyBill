@@ -36,7 +36,7 @@ Este proyecto es una plataforma integral para la creación y gestión de factura
 
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/tu_usuario/nombre_del_repositorio.git
+   git clone https://github.com/carsan-dev/EasyBill.git
    ```
 2. Asegúrate de tener Python 3.8 o superior instalado.
 3. Instala las dependencias requeridas:
